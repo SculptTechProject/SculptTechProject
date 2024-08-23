@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mateusz Dalke</h1>
 <h3 align="center">A passionate fullstack JavaScript developer from Poland</h3>
 
-- 🌱 I’m currently learning \*\*React.js and Node.js\*\*
+- 🌱 I’m currently learning \*\C++ Game dev and mobile dev :)\*\*
 - 📫 How to reach me \*\*sculpttechproject@gmail.com\*\*
 - ⚡ Fun fact \*\*LEGO bricks withstand compression better than concrete.\*\*
 
