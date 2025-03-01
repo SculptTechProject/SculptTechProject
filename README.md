@@ -31,5 +31,6 @@
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://www.linkedin.com/in/mateusz-dalke-12b56a2a8" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="https://stackoverflow.com/users/23150668" style="display: inline-block;"><img src="https://img.shields.io/badge/stackoverflow-logo?style=for-the-badge&logo=stackoverflow&logoColor=white&color=%23cc0000" alt="stackoverflow" /></a></p>
+  <hr></hr>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=SculptTechProject&show_icons=true&locale=en&layout=compact" alt="SculptTechProject" /></p>
 </div>
