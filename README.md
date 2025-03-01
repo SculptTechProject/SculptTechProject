@@ -1,5 +1,6 @@
+<div align="center">
 <h1>Hi 👋, I'm Mateusz</h1>
-<p>I break things so I can fix them better.</p>
+<p>I break things so I can fix them better 🤓</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="42" height="42" /></a>
@@ -31,3 +32,4 @@
 <p><a target="_blank" href="https://www.linkedin.com/in/mateusz-dalke-12b56a2a8" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="https://stackoverflow.com/users/23150668" style="display: inline-block;"><img src="https://img.shields.io/badge/stackoverflow-logo?style=for-the-badge&logo=stackoverflow&logoColor=white&color=%23cc0000" alt="stackoverflow" /></a></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=SculptTechProject&show_icons=true&locale=en&layout=compact" alt="SculptTechProject" /></p>
+</div>
