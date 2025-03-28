@@ -24,7 +24,7 @@
 </li>
 
 ## 📫 Reach out:
-- GitHub: [@SculptTechProject](https://github.com/SculptTechProject)
+- Gmail: sculpttechproject@gmail.com
 - Linkedin: [Linkedin](https://www.linkedin.com/in/mateusz-dalke-12b56a2a8/)
 
 ---
