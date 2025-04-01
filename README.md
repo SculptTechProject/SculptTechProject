@@ -26,5 +26,6 @@
 ## 📫 Reach out:
 - Gmail: sculpttechproject@gmail.com
 - Linkedin: [Linkedin](https://www.linkedin.com/in/mateusz-dalke-12b56a2a8/)
+- Instagram: [dalke.dev](https://www.instagram.com/dalke.dev/)
 
 ---
