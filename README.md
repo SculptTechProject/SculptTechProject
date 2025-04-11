@@ -8,10 +8,10 @@
 
 ## 🛠️ Tech I work with:
 - Frontend: **Next.js**, **Tailwind CSS**, **TypeScript**
-- Backend: **Express.js**, **C# (mainly)**
+- Backend: **Express.js**, **Java**
 - Databases: **MySQL**, **MongoDB**
 - Mobile: **React Native (Expo)**
-- Tools: **Docker**, **Socket.IO**, **Postman**, 
+- Tools: **Docker**, **Socket.IO**, **Postman**,
 
 ## 📫 Reach out:
 - Gmail: dalke.dev@gmail.com
