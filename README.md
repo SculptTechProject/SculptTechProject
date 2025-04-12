@@ -7,8 +7,8 @@
 🎓 I'm currently studying Applied Computer Science at Bydgoszcz University of Science and Technology.
 
 ## 🛠️ Tech I work with:
-- Frontend: **Next.js**, **Tailwind CSS**, **TypeScript**
-- Backend: **Express.js**, **Java**
+- Frontend: **Next.js**, **Tailwind CSS**
+- Backend: **Express.js**
 - Databases: **MySQL**, **MongoDB**
 - Mobile: **React Native (Expo)**
 - Tools: **Docker**, **Socket.IO**, **Postman**,
