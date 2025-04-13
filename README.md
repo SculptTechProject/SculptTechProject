@@ -8,7 +8,7 @@
 
 ## 🛠️ Tech I work with:
 - Frontend: **Next.js**, **Tailwind CSS**
-- Backend: **Express.js**, (Currently learning **Java** ;))
+- Backend: **Express.js**, (Currently learning **C#** ;))
 - Databases: **MySQL**, **MongoDB**
 - Mobile: **React Native (Expo)**
 - Tools: **Docker**, **Socket.IO**, **Postman**,
