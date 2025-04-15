@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Mateusz!
 
-💻 I'm a backend-focused developer passionate about building efficient and scalable applications – especially with C#.
+💻 I'm a backend-focused developer passionate about building efficient and scalable applications – especially with C# (or fast MVP with Express.js 😉).
 
 📱 I also build mobile apps using React Native to bring ideas to life on the go.
 
@@ -15,7 +15,7 @@
 - Mobile: **React Native (Expo)**
 - Tools: **Docker**, **Socket.IO**, **Postman**,
 
-  ### **Currently diving deeper into C# API development and exploring scalable architectures.**
+### 🚀 Currently focused on Express.js REST APIs while also expanding my knowledge of C# and scalable backend design.
 
 ## 📫 Reach out:
 - Gmail: dalke.dev@gmail.com
