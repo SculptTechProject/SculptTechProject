@@ -1,7 +1,9 @@
 # 👋 Hey, I'm Mateusz!
 
 💻 I'm a backend-focused developer passionate about building efficient and scalable applications – especially with C#.
+
 📱 I also build mobile apps using React Native to bring ideas to life on the go.
+
 🏋️‍♂️ After coding, you’ll probably find me lifting weights or catching up on motorsport.
 
 🎓 I'm currently studying Applied Computer Science at Bydgoszcz University of Science and Technology.
