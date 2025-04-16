@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Mateusz!
+# 👋 Heyyy, I'm Mateusz!
 
 💻 I'm a backend-focused developer passionate about building efficient and scalable applications – especially with C# (or fast MVP with Express.js 😉).
 
