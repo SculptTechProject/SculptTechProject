@@ -15,7 +15,7 @@
 - Mobile: **React Native (Expo)**
 - Tools: **Docker**, **Prisma**, **Socket.IO**
 
-### 🚀 Currently learning more about Python-based data workflows, ETL design, and further C/C++ optimizations to move towards a Data Engineer role.
+### 🚀 Currently learning more about Python-based data workflows, ETL design, and further C/C++ optimizations to move towards a Data Engineer role :)
 
 ## 📫 Reach out:
 - Gmail: dalke.dev@gmail.com
