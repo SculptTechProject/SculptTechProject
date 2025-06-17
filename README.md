@@ -1,6 +1,6 @@
-# 👋 Heyyy, I'm Mateusz!
+# 👋 Hey, I'm Mateusz!
 
-💻 I'm a backend-focused developer with a strong interest in data engineering, scalable systems, and working in **C/C++** — building apps in **C#**, **Express.js**, and tackling **SQL** & **NoSQL** databases.
+💻 I'm a backend-focused developer with a strong interest in data engineering, scalable systems, and working in **C/C++** — building apps in **Python**, **Express.js**, and tackling **SQL** & **NoSQL** databases.
 
 📊 Lately, I’ve been diving deeper into **data pipelines**, **ETL concepts**, and exploring tools like **Python**, **Docker**, and **PostgreSQL** to expand into the data world.
 
