@@ -1,6 +1,6 @@
 # Hey, I’m Mateusz 🚀
 
-Backend‑first dev bridging **Data Engineering** & **Full‑Stack Web Development**. I love turning raw sensor data into clean, query‑ready insights, crafting end‑to‑end web experiences, and squeezing every cycle out of C & C++ when latency matters.
+Backend‑first (but can make cool UI) dev bridging **Data Engineering** & **Full‑Stack Web Development**. I love turning raw sensor data into clean, query‑ready insights, crafting end‑to‑end web experiences, and squeezing every cycle out of C & C++ when latency matters.
 
 *📍 Toruń, Poland · Remote / EU‑friendly hours*
 
