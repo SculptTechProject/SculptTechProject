@@ -53,7 +53,7 @@ Backend‑first (but can make cool UI) dev bridging **Data Engineering** & **Fu
 
 ## 🤝 Let’s connect
 
-* **LinkedIn** » [mateusz‑dalke](https://www.linkedin.com/in/mateusz-dalke-12b56a2a8/)
+* **LinkedIn** » [mateusz‑dalke](https://www.linkedin.com/in/mateusz-dalke)
 * **Email** » [dalke.dev@gmail.com](mailto:dalke.dev@gmail.com)
 
 *(Always open to project collabs, internships or junior data/data‑platform/web roles.)*
