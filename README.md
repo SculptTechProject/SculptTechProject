@@ -35,7 +35,7 @@ Backend-first developer bridging **Data Engineering** & **Full-Stack Web Develop
 * **Languages** » Python · TypeScript · C/C++ · SQL
 * **Data** » Apache Spark · Pandas · Delta Lake · Kafka · Airflow (learning)
 * **Backend** » Django · Express.js · FastAPI · Node.js
-* **Frontend/Mobile** » Next.js · Vue 3 · React Native · Tailwind CSS
+* **Frontend/Mobile** » · Nuxt.js · Next.js · Vue 3 · React Native · Tailwind CSS
 * **Databases** » PostgreSQL · MySQL · MongoDB
 * **DevOps** » Docker · Docker Compose · GitHub Actions · Prometheus/Grafana
 
