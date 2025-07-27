@@ -32,7 +32,7 @@ Backend-first developer bridging **Data Engineering** & **Full-Stack Web Develop
 
 ## 🛠️ Toolbox
 
-* **Languages** » Python · TypeScript · C/C++ · SQL
+* **Languages** » Python · TypeScript · C# · C++ · SQL
 * **Data** » Apache Spark · Pandas · Delta Lake · Kafka · Airflow (learning)
 * **Backend** » Django · Express.js · FastAPI · Node.js
 * **Frontend/Mobile** » · Nuxt.js · Next.js · Vue 3 · React Native · Tailwind CSS
