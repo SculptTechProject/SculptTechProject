@@ -37,7 +37,7 @@ Backend‑first developer bridging **Data Engineering** & **Full‑Stack Web Dev
 
 **🔙 Backend Frameworks:** Django · FastAPI · Express.js · DRF · Channels (ASGI)
 
-**📊 Data & ML:** scikit-learn · Pandas · Apache Spark · Delta Lake · Kafka · Airflow
+**📊 Data & ML:** scikit-learn · PyTorch (learning) · Pandas · Apache Spark · Delta Lake · Kafka · Airflow
 
 **🖼️ Frontend:** Nuxt 3 · Next.js · Vue 3 · Tailwind CSS
 
