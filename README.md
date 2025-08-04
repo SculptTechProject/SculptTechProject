@@ -55,4 +55,4 @@ Backend‑first developer bridging **Data Engineering** & **Full‑Stack Web Dev
 * **LinkedIn** » [mateusz-dalke](https://www.linkedin.com/in/mateusz-dalke)
 * **Email** » [dalke.dev@gmail.com](mailto:dalke.dev@gmail.com)
 
-*(Open to collaborations, internships, or junior data/platform/web roles.)*
+*(Open to mid-level tasks and junior/mid hybrid roles.)*
