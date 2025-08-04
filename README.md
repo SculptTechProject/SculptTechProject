@@ -33,13 +33,17 @@ Backend‑first developer bridging **Data Engineering** & **Full‑Stack Web Dev
 
 ## 🛠️ Toolbox
 
-* **Languages** » Python · TypeScript · C# · C++ · SQL
-* **ML & Data Science** » scikit-learn · Pandas · Apache Spark · Delta Lake · Kafka · Matplotlib · Airflow
-* **Backend** » Django/DRF · Channels (ASGI) · FastAPI · Express/Node.js
-* **Frontend** » Nuxt 3 · Next.js · Vue 3 · Tailwind CSS
-* **Databases** » PostgreSQL · MySQL · MongoDB
-* **Caching & Messaging** » Redis (pub/sub, streams, cache, queues)
-* **DevOps** » Docker · Docker Compose · GitHub Actions · Prometheus/Grafana
+**🧠 Languages:** Python · TypeScript · C++ · SQL
+
+**🔙 Backend Frameworks:** Django · FastAPI · Express.js · DRF · Channels (ASGI)
+
+**📊 Data & ML:** scikit-learn · Pandas · Apache Spark · Delta Lake · Kafka · Airflow
+
+**🖼️ Frontend:** Nuxt 3 · Next.js · Vue 3 · Tailwind CSS
+
+**🗄️ Databases:** PostgreSQL · Redis
+
+**⚙️ DevOps & Tools:** Docker · GitHub Actions · Prometheus · Grafana
 
 ---
 
