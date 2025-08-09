@@ -42,18 +42,9 @@ Vehicle telemetry to live map, roles/permissions, alerts, and exports.
 - Alert notifications (speeding, idle, low fuel)
 - Dashboard with KPIs + map heatmaps
 
-*Example of simulator output:*
-<details>
-<summary>Click to view sample telemetry data</summary>
+*Demo*:
 
-```text
-TESTCAR01 | {"vehicle_id": "TESTCAR01", "timestamp": "2025-08-08T09:35:28.593229+00:00", "location": {"lat": 52.230391, "lon": 21.014133}, "speed_kmh": 0.0, "engine_rpm": 800, "gear": 1, "fuel_level_pct": 95.0, "fault_codes": []}
-TESTCAR01 | {"vehicle_id": "TESTCAR01", "timestamp": "2025-08-08T09:35:29.596480+00:00", "location": {"lat": 52.230396, "lon": 21.014184}, "speed_kmh": 12.8, "engine_rpm": 1409, "gear": 1, "fuel_level_pct": 95.0, "fault_codes": []}
-TESTCAR01 | {"vehicle_id": "TESTCAR01", "timestamp": "2025-08-08T09:35:30.597429+00:00", "location": {"lat": 52.230412, "lon": 21.014306}, "speed_kmh": 30.4, "engine_rpm": 2130, "gear": 2, "fuel_level_pct": 95.0, "fault_codes": []}
-TESTCAR01 | {"vehicle_id": "TESTCAR01", "timestamp": "2025-08-08T09:35:31.600347+00:00", "location": {"lat": 52.230436, "lon": 21.014472}, "speed_kmh": 42.0, "engine_rpm": 2937, "gear": 2, "fuel_level_pct": 95.0, "fault_codes": []}
-````
-
-</details>
+![2025-08-09 17-43-04](https://github.com/user-attachments/assets/d924a183-afb3-4440-9727-5239a08599c7)
 
 ---
 
