@@ -67,6 +67,17 @@ From dataset → feature engineering → model selection → **/predict** API �
 
 ---
 
+### 4) GinioCrawler — Lead finder & contact extractor
+Search by phrase (e.g., “granulate manufacturers Poland”), crawl result pages, and extract emails/phones. Exports CSV/XLSX; ships as a one-file Windows EXE; tiny GUI included.  
+- **Highlights:** CLI + GUI, respects `robots.txt`, follows Contact link (depth=1), CSV/XLSX with hyperlinks  
+- **Stack:** Python · httpx · BeautifulSoup · Tkinter · Pandas · openpyxl · SerpAPI · PyInstaller  
+- **Repo:** [GinioCrawler](https://github.com/SculptTechProject/GinioCrawler)
+
+<img width="1177" height="520" alt="image" src="https://github.com/user-attachments/assets/ef1bad28-6b57-4fe2-a276-afb1ba4ebfa1" />
+
+<img width="2035" height="373" alt="image" src="https://github.com/user-attachments/assets/c40467fb-cbc4-4770-9e83-1f998023fa60" />
+
+
 ### ☘️ For fun: MultiHandPaint
 
 “Air-brush” drawing — control the canvas with your hands; clear with a mouth gesture.
