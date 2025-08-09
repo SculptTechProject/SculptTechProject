@@ -118,6 +118,7 @@ Search by phrase (e.g., “granulate manufacturers Poland”), crawl result page
 ## 🤝 Let’s Connect
 
 **LinkedIn:** [mateusz-dalke](https://www.linkedin.com/in/mateusz-dalke)
+
 **Email:** [dalke.dev@gmail.com](mailto:dalke.dev@gmail.com)
 
 > Open to backend, data engineering, and ML roles — ready for mid-level challenges.
