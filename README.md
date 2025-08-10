@@ -54,9 +54,11 @@ From dataset → feature engineering → model selection → **/predict** API �
 
 * **Highlights:** Pipelines, 5-fold CV, RMSE/MAE metrics, FastAPI endpoint
 * **Stack:** scikit-learn · Pandas · FastAPI · Pydantic · Docker
-* **Repo:** [CarWorth-ML](https://github.com/SculptTechProject/CarWorth-ML)
+* **Repo:** [CarWorth-ML](https://github.com/SculptTechProject/CarWorth-ML).
 
- <img width="640" height="480" alt="Residuals plot" src="https://github.com/user-attachments/assets/fd28034b-81b4-4719-9ee6-acb5f82da858" />
+<img width="1899" height="528" alt="image" src="https://github.com/user-attachments/assets/669a8614-dcd2-4a03-b7c1-6da8b74d87e0" />
+
+<img width="640" height="480" alt="Residuals plot" src="https://github.com/user-attachments/assets/fd28034b-81b4-4719-9ee6-acb5f82da858" />
 
 **Planned features:**
 
