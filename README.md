@@ -46,6 +46,8 @@ Vehicle telemetry to live map, roles/permissions, alerts, and exports.
 
 *Demo*:
 
+<img width="1907" height="985" alt="image" src="https://github.com/user-attachments/assets/c4176428-45df-41e0-ab00-9c986468575a" />
+
 ![2025-08-09 17-43-04](https://github.com/user-attachments/assets/d924a183-afb3-4440-9727-5239a08599c7)
 
 ---
