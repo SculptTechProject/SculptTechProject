@@ -1,6 +1,6 @@
 # Hey, I’m Mateusz 🚀
 
-## [Visit my website!🤓](www.dalkedev.pl)
+## Visit my website!🤓 ---> www.dalkedev.pl
 
 **Backend-first** developer turning raw data into **real-time, production-ready apps**.  
 I build pragmatic systems end-to-end: APIs → streaming → storage → dashboards — and I ship **every day**.
