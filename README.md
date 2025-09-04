@@ -16,7 +16,37 @@ I build pragmatic systems end-to-end: APIs → streaming → storage → dashboa
 
 ## 🚀 Featured Projects
 
-### 1) Servo-Sens-App *(WIP)* — Real-time sensor monitoring
+### 1) dummysensors — Dummy sensor data generator (PyPI package)
+Lightweight tool for generating synthetic sensor data for IoT/ML testing. Supports Python API + CLI, JSONL/CSV outputs, YAML configs.
+- **Stack:** Python · CLI · PyPI Trusted Publishing · CI/CD
+- **Demo project:** [ds-test](https://github.com/SculptTechProject/ds-test)
+- **Repo:** https://github.com/SculptTechProject/dummysensors
+
+<img width="790" height="657" alt="image" src="https://github.com/user-attachments/assets/132a7800-9c51-4ae5-93f9-7327382fd806" /> 
+
+>Live plot
+
+<img width="785" height="559" alt="image" src="https://github.com/user-attachments/assets/4f22a680-b81f-49e6-ab01-3d7424335ceb" />
+
+```bash
+=== Head of dataframe ===
+ts device_id sensor_id         type      value
+0  0.0  engine-A    temp-0  temperature  84.620850
+1  0.0  engine-A     vib-0    vibration   0.179118
+2  0.5  engine-A    temp-0  temperature  76.254692
+3  0.5  engine-A     vib-0    vibration   0.166054
+4  1.0  engine-A    temp-0  temperature  76.256331
+
+Average values by type:
+type
+temperature    76.844964
+vibration      -0.017095
+Name: value, dtype: float64
+
+```
+> Analysis with Pandas
+
+### 2) Servo-Sens-App *(WIP)* — Real-time sensor monitoring
 Real-time readings & alerts over WebSockets, token auth, one-click seed/quickstart.  
 - **Highlights:** Channels (ASGI/Redis), JWT auth, alert rules, Docker Compose  
 - **Stack:** Django · DRF · Channels · Redis · PostgreSQL · Nuxt 3 · Docker  
@@ -32,7 +62,7 @@ Real-time readings & alerts over WebSockets, token auth, one-click seed/quicksta
 
 ---
 
-### 2) FleetStream — Fleet management SaaS
+### 3) FleetStream — Fleet management SaaS
 Vehicle telemetry to live map, roles/permissions, alerts, and exports.  
 - **Highlights:** Multi-user & roles, Leaflet/Mapbox map, CSV/PDF export  
 - **Stack:** Django/FastAPI · PostgreSQL · Kafka · Leaflet/Mapbox · Docker  
@@ -52,7 +82,7 @@ Vehicle telemetry to live map, roles/permissions, alerts, and exports.
 
 ---
 
-### 3) CarWorth-ML — Car price prediction
+### 4) CarWorth-ML — Car price prediction
 
 From dataset → feature engineering → model selection → **/predict** API → tiny UI.
 
@@ -73,7 +103,7 @@ From dataset → feature engineering → model selection → **/predict** API �
 
 ---
 
-### 4) GinioCrawler — Lead finder & contact extractor
+### 5) GinioCrawler — Lead finder & contact extractor
 Search by phrase (e.g., “granulate manufacturers Poland”), crawl result pages, and extract emails/phones. Exports CSV/XLSX; ships as a one-file Windows EXE; tiny GUI included.  
 - **Highlights:** CLI + GUI, respects `robots.txt`, follows Contact link (depth=1), CSV/XLSX with hyperlinks  
 - **Stack:** Python · httpx · BeautifulSoup · Tkinter · Pandas · openpyxl · SerpAPI · PyInstaller  
