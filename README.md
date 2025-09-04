@@ -20,7 +20,7 @@ I build pragmatic systems end-to-end: APIs → streaming → storage → dashboa
 Lightweight tool for generating synthetic sensor data for IoT/ML testing. Supports Python API + CLI, JSONL/CSV outputs, YAML configs.
 - **Stack:** Python · CLI · PyPI Trusted Publishing · CI/CD
 - **Demo project:** [ds-test](https://github.com/SculptTechProject/ds-test)
-- **Repo:** https://github.com/SculptTechProject/dummysensors
+- **Repo:** [dummysensors](https://github.com/SculptTechProject/dummysensors)
 
 <img width="790" height="657" alt="image" src="https://github.com/user-attachments/assets/132a7800-9c51-4ae5-93f9-7327382fd806" /> 
 
