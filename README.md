@@ -112,9 +112,9 @@ Search by phrase (e.g., “granulate manufacturers Poland”), crawl result page
 
 ## 🧰 Toolbox
 
-* **Languages:** Python · TypeScript · C++ · SQL
+* **Languages:** Python · TypeScript · C# · SQL
 * **Backend:** Django · DRF · Channels (ASGI) · FastAPI · Express.js
-* **Data/ML:** scikit-learn · Pandas · (🔥 learning) PyTorch · Spark · Delta Lake · Kafka · Airflow
+* **Data/ML:** scikit-learn · Pandas · Spark · Delta Lake · Kafka · Airflow
 * **Frontend:** Nuxt 3 · Next.js · Vue 3 · Tailwind CSS
 * **Databases:** PostgreSQL · Redis
 * **DevOps:** Docker · GitHub Actions · Prometheus · Grafana
