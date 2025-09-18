@@ -143,6 +143,6 @@ Search by phrase (e.g., “granulate manufacturers Poland”), crawl result page
 
 **Email:** [dalke.dev@gmail.com](mailto:dalke.dev@gmail.com)
 
-> Open to backend, data engineering, and ML roles — ready for mid-level challenges.
+> Open to backend, data engineering, and ML roles.
 
 ---
