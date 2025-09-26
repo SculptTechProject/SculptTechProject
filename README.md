@@ -1,13 +1,12 @@
 # Hey, I’m Mateusz 🚀
 
-**Backend-first** developer turning raw data into **real-time, production-ready apps**.  
+**Backend developer** turning raw data into **real-time, production-ready apps**.  
 I build pragmatic systems end-to-end: APIs → streaming → storage → dashboards — and I ship **every day**.
 
 ---
 
 ## ⚡ Snapshot
 - Real-time backends (Django/DRF/Channels, FastAPI) with Redis/PostgreSQL/Kafka
-- Data/ML pipelines with scikit-learn; **learning PyTorch** for applied projects
 - Clean DevEx: Dockerized stacks, CI/CD, readable docs, and tests
 
 ---
