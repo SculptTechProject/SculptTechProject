@@ -119,14 +119,6 @@ Search by phrase (e.g., “granulate manufacturers Poland”), crawl result page
 
 ---
 
-## 📈 How I work
-
-* I prototype quickly, then harden: tests → CI/CD → docs → release.
-* I ask “**why**” before “how”; architecture first, code second.
-* AI helps me reason and review. **I write the code.**
-
----
-
 ## 🎯 Currently
 
 * BSc (Applied Computer Science), 2nd year — Bydgoszcz University of Science & Technology
@@ -140,7 +132,5 @@ Search by phrase (e.g., “granulate manufacturers Poland”), crawl result page
 **LinkedIn:** [mateusz-dalke](https://www.linkedin.com/in/mateusz-dalke)
 
 **Email:** [dalke.dev@gmail.com](mailto:dalke.dev@gmail.com)
-
-> Open to backend, data engineering, and ML roles.
 
 ---
