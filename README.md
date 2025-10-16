@@ -110,18 +110,16 @@ Search by phrase (e.g., “granulate manufacturers Poland”), crawl result page
 ## 🧰 Toolbox
 
 * **Languages:** Python · TypeScript · C# · SQL
-* **Backend:** Django · DRF · Channels (ASGI) · FastAPI · Express.js
-* **Data/ML:** scikit-learn · Pandas · Spark · Delta Lake · Kafka · Airflow
-* **Frontend:** Nuxt 3 · Next.js · Vue 3 · Tailwind CSS
+* **Backend:** Django DRF · Channels (ASGI) · FastAPI · Express.js
+* **Data/ML:** scikit-learn · Pandas · Spark · Delta Lake · Kafka 
 * **Databases:** PostgreSQL · Redis
-* **DevOps:** Docker · GitHub Actions · Prometheus · Grafana
+* **DevOps:** Docker · GitHub Actions · Prometheus
 
 ---
 
 ## 🎯 Currently
 
 * BSc (Applied Computer Science), 2nd year — Bydgoszcz University of Science & Technology
-* Building production-grade open-source projects in public (GitHub commits daily)
 * Lifting at the gym 🏋️ and geeking out over cars 🚗
 
 ---
