@@ -5,12 +5,6 @@ I build pragmatic systems end-to-end: APIs → streaming → storage → dashboa
 
 ---
 
-## ⚡ Snapshot
-- Real-time backends (Django/DRF/Channels, FastAPI) with Redis/PostgreSQL/Kafka
-- Clean DevEx: Dockerized stacks, CI/CD, readable docs, and tests
-
----
-
 ## 🚀 Featured Projects
 
 ### 1) dummysensors — Dummy sensor data generator (PyPI package)
@@ -110,8 +104,7 @@ Search by phrase (e.g., “granulate manufacturers Poland”), crawl result page
 ## 🧰 Toolbox
 
 * **Languages:** Python · TypeScript · C# · SQL
-* **Backend:** Django DRF · Channels (ASGI) · FastAPI · Express.js
-* **Data/ML:** scikit-learn · Pandas · Spark · Delta Lake · Kafka 
+* **Backend:** Django DRF · Channels (ASGI) · FastAPI · C# Web API
 * **Databases:** PostgreSQL · Redis
 * **DevOps:** Docker · GitHub Actions · Prometheus
 
@@ -120,7 +113,7 @@ Search by phrase (e.g., “granulate manufacturers Poland”), crawl result page
 ## 🎯 Currently
 
 * BSc (Applied Computer Science), 2nd year — Bydgoszcz University of Science & Technology
-* Lifting at the gym 🏋️ and geeking out over cars 🚗
+* Lifting at the gym 🏋️ and geeking out over cars 🚗 and technology 🧑‍💻
 
 ---
 
