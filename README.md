@@ -113,7 +113,7 @@ Search by phrase (e.g., “granulate manufacturers Poland”), crawl result page
 ## 🎯 Currently
 
 * BSc (Applied Computer Science), 2nd year — Bydgoszcz University of Science & Technology
-* Lifting at the gym 🏋️ and geeking out over cars 🚗 and technology 🧑‍💻
+* Lifting at the gym 🏋️, geeking out over cars 🚗 and technology 🧑‍💻
 
 ---
 
