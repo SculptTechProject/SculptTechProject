@@ -103,8 +103,8 @@ Search by phrase (e.g., “granulate manufacturers Poland”), crawl result page
 
 ## 🧰 Toolbox
 
-* **Languages:** Python · TypeScript · C# · SQL
-* **Backend:** Django DRF · Channels (ASGI) · FastAPI · C# Web API
+* **Languages:** Python · C# · TypeScript · SQL
+* **Backend:** Django DRF · ASP.NET WebAPI  · FastAPI · Express.js
 * **Databases:** PostgreSQL · Redis
 * **DevOps:** Docker · GitHub Actions · Prometheus
 
