@@ -105,6 +105,7 @@ Search by phrase (e.g., “granulate manufacturers Poland”), crawl result page
 
 * **Languages:** Python · C# · TypeScript · SQL
 * **Backend:** Django DRF · ASP.NET WebAPI  · FastAPI · Express.js
+* **Frontend:** Angular · React 
 * **Databases:** PostgreSQL · Redis
 * **DevOps:** Docker · GitHub Actions · Prometheus
 
