@@ -7,6 +7,19 @@ I build and ship APIs, background jobs and dashboards in production.
 
 ## 🚀 What I am building
 
+### Sparkly (WIP) – Build-in-public platform for developers
+
+A social platform for developers to document and share progress on their projects.
+
+- Backend: .NET 9 · ASP.NET Core · EF Core · PostgreSQL · JWT  
+- Frontend: Angular  
+- Features: authentication, projects, posts, CI tests, Dockerized dev environment  
+- Vision: a space where devs can track progress, publish updates and build in public  
+
+Repo Server: [sparkly-server](https://github.com/SculptTechProject/sparkly-server)
+
+Repo Web: [sparkly-server](https://github.com/SculptTechProject/sparkly-web)
+
 ### dummysensors – Synthetic sensor data generator (PyPI)
 
 Lightweight tool for generating synthetic sensor data for IoT / ML testing.  
