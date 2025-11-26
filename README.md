@@ -1,90 +1,86 @@
-# Hey, I am Mateusz 🚀
+# Hey, I am Mateusz 👋
 
-Backend developer with a focus on data and real-time features.
-I build and ship APIs, background jobs and dashboards in production.
+Backend engineer who enjoys mixing C#, Python and TypeScript to build reliable APIs, event-driven systems and tools that make developers faster.
+
+I focus on practical engineering: clean domain logic, good testing discipline, and systems that are easy to deploy and monitor.
 
 ---
 
-## 🚀 What I am building
+## 🔭 What I am currently building
 
-### Sparkly (WIP) – Build-in-public platform for developers
+### Sparkly – Build-in-public platform for developers
+A platform for developers to track and publish progress on their projects.
 
-A social platform for developers to document and share progress on their projects.
+- .NET 9 · ASP.NET Core · EF Core · PostgreSQL  
+- Angular frontend  
+- Auth, projects, updates, integration tests  
+- CI/CD with GitHub Actions  
 
-- Backend: .NET 9 · ASP.NET Core · EF Core · PostgreSQL · JWT  
-- Frontend: Angular  
-- Features: authentication, projects, posts, CI tests, Dockerized dev environment  
-- Vision: a space where devs can track progress, publish updates and build in public  
+Repo: [sparkly-server](https://github.com/SculptTechProject/sparkly-server)
 
-Repo Server: [sparkly-server](https://github.com/SculptTechProject/sparkly-server)
+Repo: [sparkly-web](https://github.com/SculptTechProject/sparkly-web)
 
-Repo Web: [sparkly-server](https://github.com/SculptTechProject/sparkly-web)
+---
 
 ### dummysensors – Synthetic sensor data generator (PyPI)
+Tiny but powerful tool for generating synthetic sensor data for IoT and ML testing.
 
-Lightweight tool for generating synthetic sensor data for IoT / ML testing.  
-Python API + CLI, JSONL / CSV outputs, YAML configs, published on PyPI and wired into CI.
+- Python API + CLI  
+- JSONL / CSV outputs  
+- Published on PyPI with Trusted Publishing  
 
-- Stack: Python · CLI · PyPI Trusted Publishing · GitHub Actions  
-- Repo: [dummysensors](https://github.com/SculptTechProject/dummysensors)  
-- Demo: [ds-test](https://github.com/SculptTechProject/ds-test)
-
----
-
-### Servo-Sens-App (WIP) – Real-time sensor monitoring
-
-Backend for live sensor readings, alerts and web dashboard.
-
-- Django + DRF + Channels (ASGI / Redis)
-- JWT auth, token based API, Docker Compose dev stack
-- Planned: sensor simulator in Docker, alert rules, Grafana / Prometheus integration
-
-Repo: [Servo-Sens-App](https://github.com/SculptTechProject/Servo-Sens-App)
+Repo: [dummysensors](https://github.com/SculptTechProject/dummysensors)
 
 ---
 
-### FleetStream (concept) – Fleet management SaaS
+### ServoSense (WIP) – Real-time sensor monitoring
+A backend for live sensor readings, alerting and dashboarding.
 
-From vehicle telemetry to map, alerts and exports.
+- Django · DRF · Channels  
+- Redis, WebSockets, JWT  
+- Docker Compose development stack  
 
-- Multi user and roles, map with Leaflet / Mapbox
-- CSV / PDF export, PostgreSQL, Kafka in the design
+Repo: [ServoSense](https://github.com/SculptTechProject/Servo-Sens-App)
+
+---
+
+### FleetStream (concept) – Fleet management & telemetry
+Early-stage architecture for a multi-tenant fleet tracking system.
+
+- Vehicle telemetry  
+- Alerts, map view, exports  
+- Designed with PostgreSQL, caching and event-driven flows in mind  
 
 Repo: [FleetStream](https://github.com/SculptTechProject/FleetStream)
 
 ---
 
-## 📦 More projects
+## 🧰 Tech I work with
 
-- **CarWorth-ML** – car price prediction API + tiny UI  
-  `scikit-learn · FastAPI · Docker` · [Repo](https://github.com/SculptTechProject/CarWorth-ML)
-
-- **GinioCrawler** – lead finder and contact extractor (CLI + tiny GUI, EXE for Windows)  
-  `Python · httpx · BeautifulSoup · Tkinter · Pandas` · [Repo](https://github.com/SculptTechProject/GinioCrawler)
-
-- **MultiHandPaint** – “air brush” drawing with hands and mouth gesture  
-  `Python · OpenCV · MediaPipe` · [Repo](https://github.com/SculptTechProject/MultiHandPaint)
-
----
-
-## 🧰 Toolbox
-
-**Languages:** C# · TypeScript · Python · SQL  
-**Backend:** Django DRF · ASP.NET WebAPI · FastAPI · Express.js  
-**Frontend:** Angular · React  
+**Languages:** C# · Python · TypeScript · SQL  
+**Backend:** ASP.NET Core · Django DRF · FastAPI · Node.js  
+**Frontend:** Angular · React (project-based)  
 **Databases:** PostgreSQL · Redis  
-**DevOps:** Docker · GitHub Actions · Prometheus
+**DevOps:** Docker · GitHub Actions · Linux basics · Prometheus  
 
 ---
 
-## 🎯 Currently
+## 📘 What I am learning right now
 
-- BSc (Applied Computer Science), 2nd year — Bydgoszcz University of Science & Technology  
-- Lifting at the gym 🏋️, cars 🚗, and way too much backend code 🧑‍💻
+- API architecture and domain modeling in .NET  
+- Observability and monitoring (Prometheus / Grafana)  
+- Cloud basics (Azure)  
+- Solidifying design patterns and testing habits  
 
 ---
 
-## 🤝 Let us connect
+## 🎯 Outside of programming
 
-**LinkedIn:** [mateusz-dalke](https://www.linkedin.com/in/mateusz-dalke)  
-**Email:** [dalke.dev@gmail.com](mailto:dalke.dev@gmail.com)
+Gym training, Japanese cars, and building small tools that make my workflow more fun.
+
+---
+
+## 📫 Contact
+
+**LinkedIn:** [mateusz-dalke](https://www.linkedin.com/in/mateusz-dalke)
+**Email:** dalke.dev@gmail.com
