@@ -83,4 +83,5 @@ Gym training, Japanese cars, and building small tools that make my workflow more
 ## 📫 Contact
 
 **LinkedIn:** [mateusz-dalke](https://www.linkedin.com/in/mateusz-dalke)
+
 **Email:** dalke.dev@gmail.com
